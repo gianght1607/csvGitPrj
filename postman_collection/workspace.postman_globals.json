@@ -1,0 +1,21 @@
+{
+	"id": "52da8130-7ed8-49c8-8020-9721e912002d",
+	"values": [
+		{
+			"key": "url",
+			"value": "https://reqres.in",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "token",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2025-01-22T08:35:58.153Z",
+	"_postman_exported_using": "Postman/11.29.0"
+}
